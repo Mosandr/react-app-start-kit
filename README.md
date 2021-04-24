@@ -4,7 +4,7 @@ git clone https://github.com/Mosandr/react-app-start-kit
 
 Переименовать папку сборки именем вашего проекта.
 
-mv webpack-starter-kit имя_проекта
+mv react-app-start-kit имя_проекта
 Затем перейти в папку проекта.
 
 cd имя_проекта
